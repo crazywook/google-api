@@ -1,0 +1,8 @@
+{
+  "mochaExplorer.require": "",
+  "mochaExplorer.files": "test/**/*.spec.js",
+  "mochaExplorer.watch": [
+    "src/**/*.js",
+    "test/**/*.js"
+  ]
+}
